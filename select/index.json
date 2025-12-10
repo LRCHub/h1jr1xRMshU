@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "日常革命",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2025-12-10T08:06:59.845466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日常革命",
+      "artist": "ねぐせ。",
+      "has_synced": true,
+      "path": "select/01_日常革命_ねぐせ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日常革命",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_日常革命_ねぐせ。.txt"
+    }
+  ]
+}
